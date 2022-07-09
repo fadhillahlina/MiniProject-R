@@ -1,0 +1,17 @@
+Hasil dari analisis :
+- 5 Cabang dengan performa terbaik, yaitu :
+     1 AC 
+     2 AB
+     3 AD
+     4 AA
+     5 AG
+- 5 Cabang dengan performa terburuk, yaitu :
+     1 AV  
+     2 AS
+     3 AT  
+     4 AU
+     5 AO
+- Dari hasil visualisai dapat diliihat, semakin berumurcabang maka performanya akan semakin baik
+- Setelah di lakukan pelabelan untuk melihat cabang yang berperforma baik dan rendah, ditemukan cabang yang performanya rendah dengan umur cabang yang lumayan besar, yaitu cabang AE.
+  Hal ini disebabkan karena ada satu agen pada cabang AE yang hanya melakukan pencairan selama 4 hari. Jika di bandingkan dengan agen lainya yang bisa aktif selama 21 hari.
+- Untuk meningkatkan performa maka akan lebih baik jika setiap agen akif setiap hari untuk menjaga performa cabang.
