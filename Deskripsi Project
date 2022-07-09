@@ -1,0 +1,28 @@
+Perusahaan A adalah perusahaan yang beregerak dibidang finance yang menyalurkan dana kepada masyarakat. 
+Perusahaan ini baru berjalan satu tahun, tetapi sudah memiliki beberapa cabang yang tersebar.
+setiap cabang memiliki agen yang bertugas mencari dan mendata calon mitra yang akan mengajukan pinjaman kepada Perusahaan, dan memeberikan dana dana tersebut kepada mitra.
+
+Pada project ini akan dilakukan analisis untuk melihat performa tiap cabang, khusus untuk bulan Mei.
+adapun langkah-langkah yang akan dilakukan adalah :
+1. Memfilter data untuk bulan Mei 2020
+2. Membuat summary per cabang untuk melihat data 5 cabang terbaik dan terburuk
+3. Karena cabang bertambah setiap bulannya, maka perlu dicek umur cabang dan performa mei
+4. Mencari cabang terburuk untuk masing - masing kelompok umur
+
+Hasil dari analisis :
+- 5 Cabang dengan performa terbaik, yaitu :
+     1 AC 
+     2 AB
+     3 AD
+     4 AA
+     5 AG
+- 5 Cabang dengan performa terburuk, yaitu :
+     1 AV  
+     2 AS
+     3 AT  
+     4 AU
+     5 AO
+- Dari hasil visualisai dapat diliihat, semakin berumurcabang maka performanya akan semakin baik
+- Setelah di lakukan pelabelan untuk melihat cabang yang berperforma baik dan rendah, ditemukan cabang yang performanya rendah dengan umur cabang yang lumayan besar, yaitu cabang AE.
+  Hal ini disebabkan karena ada satu agen pada cabang AE yang hanya melakukan pencairan selama 4 hari. Jika di bandingkan dengan agen lainya yang bisa aktif selama 21 hari.
+- Untuk meningkatkan performa maka akan lebih baik jika setiap agen akif setiap hari untuk menjaga performa cabang.
